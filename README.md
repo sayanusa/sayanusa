@@ -90,6 +90,7 @@ Throughout my career I've contributed to:
 - Firebase
 - App Store Connect
 - Google Play Console
+- Huawei Connect
 - GitHub Actions
 - Jira
 - Confluence
@@ -130,7 +131,7 @@ Fundamentals don't.
 https://linkedin.com/in/hanif-sulistiya-nusa-a66b32b4
 
 📧 Email  
-your-email@example.com
+hanifsnusa@gmail.com
 
 ---
 
